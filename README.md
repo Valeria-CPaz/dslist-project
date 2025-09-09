@@ -15,11 +15,11 @@ Academic project in Java using Spring Boot, focused on clean organization and de
 
 ## 💻 How to Run
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/Valeria-CPaz/dslist-project.git
-   cd dslist-project
-   ```
+- Open the project in your preferred Java IDE (IntelliJ IDEA, Eclipse, VSCode).
+- Run the application using the IDE controls or via Maven Wrapper:
+```bash
+  ./mvnw spring-boot:run
+```
 ---
 ---
 # (pt-br) 🌎 dslist-project
@@ -39,7 +39,7 @@ Projeto acadêmico em Java usando Spring Boot, com foco em organização limpa e
 
 ## 💻 Como executar
 
-1. Clone o repositório  
-   ```bash
-   git clone https://github.com/Valeria-CPaz/dslist-project.git
-   cd dslist-project
+- Abra a pasta do projeto na sua IDE Java favorita (IntelliJ IDEA, Eclipse, VSCode etc).
+- Build e execute a aplicação pelos controles da IDE, ou pelo Maven Wrapper:
+```bash
+  ./mvnw spring-boot:run
